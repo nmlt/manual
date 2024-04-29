@@ -15,11 +15,3 @@ To restore the the standard mail setup you need to remove the current file and t
   The spam folder is now enabled.
 
 .. include:: ../includes/levels/mailsetup_error.rst
-
-auto migration
---------------
-
-We will remove and backup the custom ``~/.qmail-default`` file and restore the standard mail setup with enabled
-spamfolder.
-
-.. include:: ../includes/auto-migration.rst

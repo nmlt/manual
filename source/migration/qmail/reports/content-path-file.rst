@@ -9,11 +9,3 @@ You will need to create a real mailbox with ``uberspace mail user add ...`` and 
 file if you want to keep them in the standard mail system.
 
 .. include:: ../includes/levels/error.rst
-
-auto migration
---------------
-
-We will create a mailbox for this mailaddress but without the content of the mailbox file. The mailbox file will be
-synced like any other file to your new Asteroid on U8.
-
-.. include:: ../includes/auto-migration.rst

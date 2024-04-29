@@ -17,10 +17,3 @@ First you need to remove the current file and restore the standard mail setup:
 Then lookup the manual how to create a `catchall <https://manual.uberspace.de/mail-mailboxes/#catch-all-mailbox>`_.
 
 .. include:: ../includes/levels/mailsetup_error.rst
-
-auto migration
---------------
-
-We will recreate the standard mail setup and enable the spamfolder. We will make sure, that a catchall is configured.
-
-.. include:: ../includes/auto-migration.rst

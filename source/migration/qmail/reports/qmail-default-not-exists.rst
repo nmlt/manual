@@ -12,11 +12,4 @@ To be able to use the standard mail setup you need to recreate the file with the
 
 .. include:: ../includes/levels/mailsetup_error.rst
 
-auto migration
---------------
-
-We will recreate the standard mail setup and enable the spamfolder.
-
-.. include:: ../includes/auto-migration.rst
-
 

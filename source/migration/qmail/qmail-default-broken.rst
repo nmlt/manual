@@ -13,10 +13,3 @@ the standard file with the commands:
   The spam folder is now enabled.
 
 .. include:: ../includes/levels/mailsetup_error.rst
-
-auto migration
---------------
-
-We will recreate the standard mail setup and enable the spamfolder.
-
-.. include:: ../includes/auto-migration.rst

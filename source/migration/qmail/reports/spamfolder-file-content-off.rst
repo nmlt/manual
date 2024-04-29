@@ -18,11 +18,3 @@ the spamfolder enable comand.
   The spam folder is now enabled.
 
 .. include:: ../includes/levels/error.rst
-
-auto migration
---------------
-
-We will backup and remove the custom spamfolder script and recreate the default one.
-
-.. include:: ../includes/auto-migration.rst
-

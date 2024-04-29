@@ -18,9 +18,3 @@ All lines with 3 or more columns contain forwards which should be full mailaddre
 using the `uberspace mail commands <https://manual.uberspace.de/mail-forwarding/>`_.
 
 .. include:: ../includes/levels/warning.rst
-
-auto migration
---------------
-
-We will replace all mailbox forwards with a full mailaddress using the default mail domain like
-**post@username.uber.space**.
