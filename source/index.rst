@@ -35,6 +35,13 @@ For more information see the :doc:`full changelog <changelog>`.
 .. toctree::
    :hidden:
    :maxdepth: 1
+   :caption: Migration
+
+   qmail <migration/qmail>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
    :caption: Basics
 
    SSH <basics-ssh>
