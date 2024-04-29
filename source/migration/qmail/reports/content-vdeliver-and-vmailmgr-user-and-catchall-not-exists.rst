@@ -1,3 +1,5 @@
+.. _content-vdeliver-and-vmailmgr-user-and-catchall-not-exists:
+
 The file forwards to a non existing mail user "example" and there is no catchall configured
 ===========================================================================================
 

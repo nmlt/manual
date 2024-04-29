@@ -1,3 +1,5 @@
+.. _content-oserror:
+
 Retrieving the file content returned a system error
 ===================================================
 

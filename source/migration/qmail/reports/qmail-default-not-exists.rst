@@ -1,5 +1,9 @@
+.. _qmail-default-not-exists:
+
 The main qmail file ~/.qmail-default does not exist
 ===================================================
+
+``id:qmail-default-not-exists``
 
 The file ``~/.qmail-default`` is the only qmail file neccessary for the standard mail setup on U7.
 

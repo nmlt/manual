@@ -1,3 +1,5 @@
+.. _content-unknown:
+
 The file contains unknown content
 =================================
 

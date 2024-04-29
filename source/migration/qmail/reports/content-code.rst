@@ -1,3 +1,5 @@
+.. _content-code:
+
 The file contains a code pipe "|" to a custom command
 =====================================================
 

@@ -1,3 +1,5 @@
+.. _vmailmgr-forward-mailbox:
+
 There are mailusers with direct forward to a mailbox
 ====================================================
 

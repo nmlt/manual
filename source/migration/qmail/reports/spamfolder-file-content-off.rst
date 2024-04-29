@@ -1,3 +1,5 @@
+.. _spamfolder-file-content-off:
+
 The script file ~/.spamfolder for the standard mail setup contains unkown content
 =================================================================================
 

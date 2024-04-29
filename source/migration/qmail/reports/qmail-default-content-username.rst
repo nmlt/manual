@@ -1,5 +1,9 @@
+.. _qmail-default-content-username:
+
 The content of the main qmail file ~/.qmail-default is the username
 ====================================================================
+
+``id:qmail-default-content-username``
 
 The file ``~/.qmail-default`` is the only qmail file neccessary for the standard mail setup on U7.
 

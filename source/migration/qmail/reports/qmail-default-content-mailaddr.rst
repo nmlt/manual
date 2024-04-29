@@ -1,5 +1,9 @@
+.. _qmail-default-content-mailaddr:
+
 The content of the main qmail file ~/.qmail-default is a mailaddress
 ====================================================================
+
+``id:qmail-default-content-mailaddr``
 
 The file ``~/.qmail-default`` is the only qmail file neccessary for the standard mail setup on U7.
 

@@ -1,5 +1,9 @@
+.. _qmail-default-content-unknown:
+
 The content of the main qmail file ~/.qmail-default is configured with unknown content
 ======================================================================================
+
+``id:qmail-default-content-unkown``
 
 The file ``~/.qmail-default`` is the only qmail file neccessary for the standard mail setup on U7.
 

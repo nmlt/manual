@@ -1,3 +1,5 @@
+.. _content-path-folder-off:
+
 The maildir path does not point to ~/users/example
 ==================================================
 

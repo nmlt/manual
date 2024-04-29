@@ -1,3 +1,5 @@
+.. _content-exit100:
+
 The file contains an |exit 100 code
 ===================================
 

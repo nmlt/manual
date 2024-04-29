@@ -1,3 +1,5 @@
+.. _content-path-folder-fits-and-vmailmgr-user-not-exists:
+
 The file contains a path to the maildir of a non existing mail user
 ===================================================================
 

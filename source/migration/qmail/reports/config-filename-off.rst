@@ -1,5 +1,9 @@
+.. _config-filename-off:
+
 The filename ".qmail-Example" cannot be parsed
 ==============================================
+
+``id:config-filename-off``
 
 This error indicates that the filename contains special letters or capitalization that might work with Qmail but
 could be problematic with the standard mail system.

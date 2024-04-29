@@ -1,5 +1,9 @@
+.. _content-multiline-contains-multiple-non-mailaddr:
+
 The file contains multiple lines which are no mailaddresses
 ===========================================================
+
+``id:content-multiline-contains-multiple-non-mailaddr``
 
 This error indicates that you have a qmail configuration file with multiple custom lines. For the standard mail system,
 we can only set up forwards to multiple mailaddresses with or without a mailbox.

@@ -1,3 +1,5 @@
+.. _qmail-username-and-vmailmgr-user-blocking:
+
 The file conflicts with an already existing mail user
 =====================================================
 

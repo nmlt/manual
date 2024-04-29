@@ -1,3 +1,5 @@
+.. _content-path-file:
+
 The file contains a path to a custom mailbox-file
 =================================================
 

@@ -1,3 +1,5 @@
+.. _content-comment-only-and-vmailmgr-user-exists:
+
 The file conflicts with an already existing mail user
 =====================================================
 
